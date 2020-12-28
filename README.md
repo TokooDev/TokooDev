@@ -43,7 +43,7 @@
 </a>
 <br />
 <br />
- ### Some projects:
+ <h3>Some projects:</h3>
 <br />
 <br />
 <a href="https://github.com/tokoodev">

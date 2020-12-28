@@ -14,7 +14,7 @@
 [<img align="left" alt="tokodev.sn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />][linkedin]
 [<img align="left" alt="tokodev.sn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="tokodev.sn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png" />][instagram]
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -47,6 +47,5 @@
 [instagram]: https://www.instagram.com/tokosel_/
 [linkedin]: https://www.linkedin.com/in/abdoulaye-sall-8a86a4162/
 [github]: https://github.com/TokooDev
-- ![#FFFFFF](https://placehold.it/15/f03c15/000000?text=+) `#FFFFFF`
 
 

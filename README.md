@@ -1,13 +1,11 @@
 ### Hi there, I'm Abdoulaye SALL - aka [TokoDev][github] 👋
+<h3 align="center">A passionate frontend developer , backend developer and apps</h3>
 
-
-## I'm a web/mobile developer, and UI Enthusiast!!
-
+- 🔭 I’m currently working on **Angular**
+- 👯 I’m looking to collaborate on **Symfony/ApiPlaform**
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣
-
 
 ### Connect with me:
 
@@ -36,9 +34,21 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />][github]
 <br />
 <br />
+<a href="https://github.com/tokoodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokoodev&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/tokoodev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tokoodev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a>
+<a href="https://github.com/tokoodev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=mindDiary&theme=dark" />
+</a>
+<a href="https://github.com/tokoodev/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=xylophone-flutter&theme=dark" />
+</a>
 
 <details>
-  <summary>:zap: My GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tokoodev&show_icons=true&theme=dracula" />
 

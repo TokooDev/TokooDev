@@ -1,5 +1,5 @@
 ### Hi there, I'm Abdoulaye SALL - aka [TokoDev][github] 👋
-<h3 align="center">A passionate frontend developer , backend developer and apps</h3>
+<h3>A passionate frontend developer , backend developer and apps</h3>
 
 - 🔭 I’m currently working on **Angular**
 - 👯 I’m looking to collaborate on **Symfony/ApiPlaform**
@@ -41,10 +41,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tokoodev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
 <a href="https://github.com/tokoodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=mindDiary&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=saApp&theme=dark" />
 </a>
 <a href="https://github.com/tokoodev/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=xylophone-flutter&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=gestion-biens-flutter&theme=dark" />
 </a>
 
 <details>

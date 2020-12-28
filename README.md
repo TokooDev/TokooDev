@@ -1,4 +1,4 @@
-### Hi there, I'm Abdoulaye SALL - aka [TokoDev][website] 👋
+### Hi there, I'm Abdoulaye SALL - aka [TokoDev][github] 👋
 
 
 ## I'm a web/mobile developer, and UI Enthusiast!!

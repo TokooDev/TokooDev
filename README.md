@@ -1,7 +1,5 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [TokooDev][website] 👋
 
-[![Website](https://tokodev.sn/)
-[![Twitter Follow](https://twitter.com/Abdoula46100171)
 
 ## I'm a Developer, and UI enthusiast!!
 

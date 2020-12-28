@@ -38,9 +38,9 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Stats</summary>
 
-  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tokoodev&show_icons=true&theme=dark" />
+  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tokoodev&show_icons=true&theme=dracula" />
 
 </details>
 

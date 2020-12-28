@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tokodev.sn" width="50px" style:"color="white";" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="tokosel | Twitter" width="50px" style:"color="white";" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tokosel | LinkedIn" width="50px" style:"color="white";" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tokosel | Instagram" width="50px" style:"color="white";" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tokodev.sn" width="50px" color="#FFFFFF" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tokosel | Twitter" width="50px" color="#FFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tokosel | LinkedIn" width="50px" color="#FFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tokosel | Instagram" width="50px" color="#FFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -48,5 +48,6 @@
 [instagram]: https://www.instagram.com/tokosel_/
 [linkedin]: https://www.linkedin.com/in/abdoulaye-sall-8a86a4162/
 [github]: https://github.com/TokooDev
+- ![#FFFFFF](https://placehold.it/15/f03c15/000000?text=+) `#FFFFFF`
 
 

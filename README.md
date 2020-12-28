@@ -13,7 +13,9 @@
 
 [<img align="left" alt="tokodev.sn" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="tokodev.sn" width="50px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-[<img align="left" alt="tokodev.sn" width="50px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]]
+[<img align="left" alt="tokodev.sn" width="50px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]
+[<img align="left" alt="tokodev.sn" width="50px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>][facebook]
+
 <br />
 <br />
 
@@ -38,11 +40,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tokoodev&show_icons=true&theme=dark" />
 
 </details>
 
 [website]: tokodev.sn
+[facebook]: https://www.facebook.com/tokosel
 [twitter]: https://twitter.com/Abdoula46100171
 [instagram]: https://www.instagram.com/tokosel_/
 [linkedin]: https://www.linkedin.com/in/abdoulaye-sall-8a86a4162/

@@ -44,8 +44,6 @@
 <br />
 <br />
  <h3>Some projects:</h3>
-<br />
-<br />
 <a href="https://github.com/tokoodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=suivie-apprenants&theme=dark" />
 </a>

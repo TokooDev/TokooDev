@@ -44,15 +44,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=saApp&theme=dark" />
 </a>
 <a href="https://github.com/tokoodev/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=gestion-biens-flutter&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=gestion-biens&theme=dark" />
 </a>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="tokoodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tokoodev&show_icons=true&theme=dracula" />
-
-</details>
 
 [website]: tokodev.sn
 [facebook]: https://www.facebook.com/tokosel

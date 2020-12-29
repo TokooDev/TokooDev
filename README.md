@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer , backend developer and apps</h3>
 
 - 🔭 I’m currently working on **Angular**
-- 👯 I’m looking to collaborate on **Symfony/ApiPlaform**
+- 👯 I’m looking to collaborate on **Symfony/ApiPlatform**
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to code again and again 🤣🤣🤣

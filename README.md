@@ -44,10 +44,10 @@
 <br />
 <br />
  <h3>Some projects:</h3>
-<a href="https://github.com/tokoodev">
+<a href="https://github.com/tokoodev/suivie-apprenants">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=suivie-apprenants&theme=dark" />
 </a>
-<a href="https://github.com/tokoodev/">
+<a href="https://github.com/tokoodev/gestion-biens">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tokoodev&repo=gestion-biens&theme=dark" />
 </a>
 
